@@ -27,7 +27,7 @@ function verify() {
       // Redirect to the target page if credentials are valid
       // window.location.href = "P:/Projects 5th Sem/CSS/Main/Core/index.html";
       console.log("Redirecting to:", "https://2006pratik0301.github.io/Capstone-Project/");
-      window.location.href = "https://2006pratik0301.github.io/Capstone-Project/";
+      window.location.href = "https://fonts.google.com/icons";
   }  
     else {
         // Display an alert if credentials are incorrect
